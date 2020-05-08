@@ -1,0 +1,68 @@
+div.finder {
+  width: 100%;
+  max-width: 500px;
+  margin-top: 40px;
+  padding: 10px;
+}
+
+div.finder header {
+  display: flex;
+  flex-direction: row;
+  margin: 0 0 50px;
+}
+
+div.finder header .input {
+  width: 70%;
+  margin-right: 10px;
+}
+
+div.finder header .input::placeholder {
+  color: #88888855;
+}
+
+div.finder header .button {
+  width: 30%;
+}
+
+div.finder section div {
+  max-width: 100%;
+  margin: 10px 0;
+}
+
+div.finder section div .card-body {
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+}
+
+div.finder section div .card-body img {
+  width: 150px;
+  margin-right: auto;
+}
+
+div.finder section div .card-body div {
+  display: flex;
+  flex-direction: column;
+  padding-right: 100px;
+}
+
+div.finder section div .card-body div .description {
+  font-size: 18px;
+  line-height: 30px;
+  color: #555555;
+}
+
+div.finder section div .card-body div .description small {
+  font-weight: bold;
+  margin-right: 5px;
+}
+
+.remove-btn {
+  background-color: #d94f36;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  border: 0;
+  width: 15px;
+  height: 15px;
+}
