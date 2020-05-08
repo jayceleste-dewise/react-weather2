@@ -2,11 +2,12 @@
   <img src="/public/img/cloudy.svg" width="150">
 </p>
 
-<h3 align="center">Weather App</h3><br/>
+<h1 align="center">Weather App</h1><br/>
 
 ## Overview
 
 **React Weather** é um WebApp para observar o clima em qualquer País/Cidade do mundo.
+- [preview](https://react-weather-2zyohurl0.now.sh/)
 
 ### Tecnologias usuadas:
 - **[ReactJs](https://pt-br.reactjs.org/)**
