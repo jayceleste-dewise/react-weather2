@@ -10,7 +10,6 @@
 ### Tecnologias usuadas:
 - **[ReactJs](https://pt-br.reactjs.org/)**
 - **[TypeScript](https://www.typescriptlang.org/)**
-- **[TypeScript](https://www.typescriptlang.org/)**
 - **[Axios](https://github.com/axios/axios)**
 - **[FluentUI](https://github.com/microsoft/fluentui)**
 
