@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'dewise-testapp'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_c8d6a23e482249c2ba8fca97854590ef }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_ccc6c72719f04073b0ff09e0821a8b4f }}
         package: .
